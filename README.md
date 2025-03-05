@@ -6,7 +6,7 @@ Ce projet est un simple effet de texte avec un dégradé de couleurs, réalisé 
 
 Tu peux voir une démonstration de l'effet ici : 
 
-
+![Image](https://github.com/user-attachments/assets/d9b4337c-8587-44c5-a2e6-954515c8e55a)
 
 ## Fonctionnalités
 
